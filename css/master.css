@@ -1,7 +1,7 @@
 body {
     display: flex;
 
-    background-image: url("/imgs/2.jpg");
+    background-image: url("https://lawrencecheng123.github.io/Seattle.jpg");
     background-color: azure;
     background-size: cover;
     color: rgba(223, 223, 223, 0.918);
